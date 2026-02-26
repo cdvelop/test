@@ -1,6 +1,6 @@
 # Plan: Hola Mundo for Jules
 
-This is a test plan to verify the CodeJob/Jules workflow. The goal is to create a simple `index.html` file in the root of the repository.
+This is a test plan to verify CodeJob/Jules workflow. The goal is to create a simple `index.html` file in the root of the repository.
 
 ## Proposed Changes
 
